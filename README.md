@@ -4,4 +4,10 @@ This repository contains lecture notes and study material for various classes th
 
 # Available Lecture
 1. Computational Physics (Python)
+2. Digital Image Processing (DIP) (upcoming)
+3. AI (upcoming)
+4. 
+5. 
+6. 
+7. 
 
