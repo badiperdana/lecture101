@@ -6,7 +6,7 @@ This repository contains lecture notes and study material for various classes th
 1. Computational Physics (Python)
 2. Digital Image Processing (DIP) (upcoming)
 3. AI (upcoming)
-4. 
+4. Numerical Methods (upcoming)
 5. 
 6. 
 7. 
